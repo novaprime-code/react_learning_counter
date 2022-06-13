@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+background-color: rgba(117, 206, 16, 0.596);
+border-radius: 20px;
+border: 3px double burlywood;
+padding: 10px;
+box-sizing: border-box;
+height: 400px;
+/* display: flexbox; */
+/* align-items: center; */
+}
+h1{
+text-align: center;
+}
+#counterNum{
+  font-size: x-large;
+  font-weight: 700;
+  text-align: center;
+}
